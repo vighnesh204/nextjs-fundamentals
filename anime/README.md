@@ -108,10 +108,10 @@ Keeping character data in a `utils/animeData.js` file as a simple array and impo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/anime-world.git
+git clone https://github.com/vighnesh204/nextjs-fundamentals.git
 
 # Navigate into the project
-cd anime-world
+cd anime
 
 # Install dependencies
 npm install
