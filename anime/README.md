@@ -8,7 +8,7 @@
  
 | Home Page | Character Detail | Characters |
 |-----------|-----------------|-----------------|
-| ![Home](./public/home.png) | ![Character](./public/character.png) | ![Cards](./public/cards.png) |
+| ![Home](./public/home.webp) | ![Character](./public/character.webp) | ![Cards](./public/cards.webp) |
  
 
 ---
