@@ -3,7 +3,7 @@ import { animeData } from "@/utils/animeData"
 
 export default function CharactersPage() {
   return (
-    <div className="min-h-screen bg-black text-white p-6">
+    <div className="min-h-screen bg-black text-white p-6 w-full overflow-x-hidden">
 
       <h1 className="text-3xl font-bold mb-8 text-center">
         Anime Characters

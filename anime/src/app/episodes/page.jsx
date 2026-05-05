@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
-const page = () => {
+const EpisodesPage = () => {
   return (
-    <div>
-      <h1>Episodes Page</h1>
+    <div className="min-h-screen bg-black text-white flex items-center justify-center px-4 overflow-x-hidden">
+      <h1 className="text-3xl md:text-4xl font-bold tracking-wide">
+        Episodes Page
+      </h1>
     </div>
-  )
-}
+  );
+};
 
-export default page
+export default EpisodesPage;
